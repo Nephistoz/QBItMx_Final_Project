@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets - never commit IBM Quantum tokens or credentials
+.env
+*token*
+
+# OS
+.DS_Store
+Thumbs.db
